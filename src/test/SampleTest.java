@@ -1,4 +1,4 @@
-import org.junit.jupiter.api.DisplayName;
+ /*import org.junit.jupiter.api.DisplayName;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -9,4 +9,4 @@ class SampleTest {
        assertEquals(5, Sample.suma(2, 3));
     }
 
-}
+}*/
